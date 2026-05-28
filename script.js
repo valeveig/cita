@@ -1,11 +1,11 @@
 // ---- GIFs de gatitos (reemplaza estas URLs con las tuyas si queres) ----
 const gifStages = [
-  "https://valeveig.github.io/cita/sticker_9.webp",
-    "https://valeveig.github.io/cita/sticker_11.webp",
-    "https://valeveig.github.io/cita/sticker_6.webp",
+  "https://valeveig.github.io/cita/sticker_1.webp",
     "https://valeveig.github.io/cita/sticker_2.webp",
-    "https://valeveig.github.io/cita/sticker_7.webp",
-    "https://valeveig.github.io/cita/sticker_18.webp",
+    "https://valeveig.github.io/cita/sticker_3.webp",
+    "https://valeveig.github.io/cita/sticker_4.webp",
+    "https://valeveig.github.io/cita/sticker_5.webp",
+    "https://valeveig.github.io/cita/sticker_15.webp",
 ]
 
 // ---- textos del boton NO ----
