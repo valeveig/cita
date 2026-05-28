@@ -1,9 +1,9 @@
 // ---- GIFs de gatitos (reemplaza estas URLs con las tuyas si queres) ----
 const gifStages = [
   "https://valeveig.github.io/cita/sticker_1.webp",
-    "https://valeveig.github.io/cita/sticker_4.webp",
-    "https://valeveig.github.io/cita/sticker_3.webp",
     "https://valeveig.github.io/cita/sticker_2.webp",
+    "https://valeveig.github.io/cita/sticker_3.webp",
+    "https://valeveig.github.io/cita/sticker_4.webp",
     "https://valeveig.github.io/cita/sticker_5.webp",
     "https://valeveig.github.io/cita/sticker_15.webp",
 ]
