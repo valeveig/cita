@@ -1,11 +1,11 @@
 // ---- GIFs de gatitos (reemplaza estas URLs con las tuyas si queres) ----
 const gifStages = [
-    "https://media.tenor.com/8NZChTFBkSoAAAAj/mochi-peach-cat-mochi.gif",   // 0 hello mochi en caja
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",   // 1 pensativo
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",              // 2 ok corazon
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",              // 3 llorando
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",                // 4 shock corriendo
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",              // 5 sorprendido
+  "https://valeveig.github.io/cita/sticker_9.webp",
+    "https://valeveig.github.io/cita/sticker_11.webp",
+    "https://valeveig.github.io/cita/sticker_6.webp",
+    "https://valeveig.github.io/cita/sticker_2.webp",
+    "https://valeveig.github.io/cita/sticker_7.webp",
+    "https://valeveig.github.io/cita/sticker_18.webp",
 ]
 
 // ---- textos del boton NO ----
