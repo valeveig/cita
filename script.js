@@ -24,7 +24,7 @@ const noSubs = [
     "me diverti la ultima vez, tu no?",
     "yo invito los dulces!",
     "si no venis voy a pasar frio...",
-    "no quiero pasar frio",
+    "te estas equivocando de boton",
     "SE que elegiras lo correcto",
 ]
 
